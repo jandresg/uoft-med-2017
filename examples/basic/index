@@ -200,136 +200,175 @@
           }
         },
         "DK": {
-          value: ""
+          value: "0"
         },
         "GL": {
-          value: ""
+          value: "0"
         },
         "GU": {
-          value: ""
+          value: "0"
         },
         "MP": {
-          value: ""
+          value: "0"
         },
         "PR": {
-          value: ""
+          value: "0"
         },
         "VI": {
-          value: ""
+          value: "0"
         },
         "CA": {
-          value: ""
+          value: "1"
+          tooltip: {
+            content: "<span style=\"font-weight:bold;\">Canada</span><br />Fellows : 116<br />Adult Cardiology (24)<br />Adult Endocrinol & Metabolism (2)<br />Adult Gastroenterology (7)<br />Adult Haematology (11)<br />Adult Infectious Diseases (2)<br />Adult Nephrology (11)<br />Adult Neurology (13)<br />Adult Respiratory (9)<br />Adult Rheumatology (2)<br />Dermatology (3)<br />Emergency Medicine (1)<br />General Internal Medicine (15)<br />Geriatric Medicine (2)<br />Medical Oncology (11)<br />Physical Med & Rehabilitation (3)"
+          }
         },
         "ST": {
-          value: ""
+          value: "0"
         },
         "CV": {
-          value: ""
+          value: "0"
         },
         "DM": {
-          value: ""
+          value: "0"
         },
         "NL": {
-          value: ""
+          value: "1"
+          tooltip: {
+            content: "<span style=\"font-weight:bold;\">Netherlands</span><br />Fellows : 2<br />Adult Neurology (2)"
+          }
         },
         "JM": {
-          value: ""
+          value: "1"
+          tooltip: {
+            content: "<span style=\"font-weight:bold;\">Jamaica</span><br />Fellows : 7<br />Adult Cardiology (4)<br />Adult Respiratory Therapy (1)<br />Adult Rheumatology (2)"
+          }
         },
         "WS": {
-          value: ""
+          value: "0"
         },
         "OM": {
-          value: ""
+          value: "1"
+          tooltip: {
+            content: "<span style=\"font-weight:bold;\">Oman</span><br />Fellows : 3<br />Adult Gastroenterology (1) <br />Emergency Medicine (1)<br />Medical Oncology (1)"
+          }
         },
         "VC": {
-          value: ""
+          value: "0"
         },
         "TR": {
-          value: ""
+          value: " 1"
+          tooltip: {
+            content: "<span style=\"font-weight:bold;\">Turkey</span><br />Fellows : 2<br />Adult Rheumatology (2)"
+          }
         },
         "BD": {
-          value: ""
+          value: "1"
+          tooltip: {
+            content: "<span style=\"font-weight:bold;\">Bangladesh</span><br />Fellows : 1<br />Adult Nephrology (1)"
+          }
         },
         "LC": {
-          value: ""
+          value: "1"
+          tooltip: {
+            content: "<span style=\"font-weight:bold;\"Saint Lucia</span><br />Fellows : 1<br />Adult Cardiology (1)"
+          }
         },
         "NR": {
-          value: ""
+          value: "0"
         },
         "NO": {
-          value: ""
+          value: "0"
         },
         "KN": {
-          value: ""
+          value: "0"
         },
         "BH": {
-          value: ""
+          value: "0"
         },
         "TO": {
-          value: ""
+          value: "0"
         },
         "FI": {
-          value: ""
+          value: "1"
+          tooltip: {
+            content: "<span style=\"font-weight:bold;\">Finland</span><br />Fellows : 1<br />Adult Respiratory Therapy (1)"
+          }
         },
         "ID": {
-          value: ""
+          value: "0"
         },
         "MU": {
-          value: ""
+          value: "0"
         },
         "SE": {
-          value: ""
+          value: "0"
         },
         "TT": {
-          value: ""
+          value: "0"
         },
         "MY": {
-          value: ""
+          value: "1"
+          tooltip: {
+            content: "<span style=\"font-weight:bold;\">Malaysia</span><br />Fellows : 4<br />Adult Cardiology (1)<br />Adult Gastroenterology (1)<br />Medical Oncology (1)<br />Physical Med & Rehabilitation (1)"
+          }
         },
         "PA": {
-          value: ""
+          value: "0"
         },
         "PW": {
-          value: ""
+          value: "0"
         },
         "TV": {
-          value: ""
+          value: "0"
         },
         "MH": {
-          value: ""
+          value: "0"
         },
         "CL": {
-          value: ""
+          value: "0"
         },
         "TH": {
-          value: ""
+          value: "1"
+          tooltip: {
+            content: "<span style=\"font-weight:bold;\">Thailand</span><br />Fellows : 4<br />Adult Gastroenterology (1)<br />Adult Nephrology (1)<br />Adult Neurology (1)<br />Adult Rheumatology (1)"
+          }
         },
         "GD" {
-          value: ""
+          value: "0"
         },
         "EE" {
-          value: ""
+          value: "0"
         },
         "AG" {
-          value: ""
+          value: "1"
+          tooltip: {
+            content: "<span style=\"font-weight:bold;\">Antigua</span><br />Fellows : 1<br />Adult Cardiology (1)"
+          }
         },
         "TW" {
-          value: ""
+          value: "0"
         },
         "BB" {
-          value: ""
+          value: "0"
         },
         "IT" {
-          value: ""
+          value: "1"
+          tooltip: {
+            content: "<span style=\"font-weight:bold;\">Italy</span><br />Fellows : 4<br />Adult Cardiology (1)<br />Adult Haematology (1)<br />Adult Respiratory Therapy (1)<br />Medical Oncology (1)"
+          }
         },
         "MT" {
-          value: ""
+          value: "0"
         },
         "VU" {
-          value: ""
+          value: "0"
         },
         "SG" {
-          value: ""
+          value: "1"
+          tooltip: {
+            content: "<span style=\"font-weight:bold;\">Singapore</span><br />Fellows : 3<br />Adult Nephrology (1)<br />Emergency Medicine (2)"
+          }
         },
         "CY" {
           value: ""
@@ -461,9 +500,6 @@
             value: ""
         },
         "KW" {
-          value: ""
-        },
-        "DE" {
           value: ""
         },
         "DE" {
