@@ -371,43 +371,46 @@
           }
         },
         "CY" {
-          value: ""
+          value: "0"
         },
         "LK" {
-          value: ""
+          value: "1"
+          tooltip: {
+            content: "<span style=\"font-weight:bold;\">Sri-Lanka</span><br />Fellows : 2<br />Adult Gastroenterology (1)<br />Physical Med & Rehabilitation (1)"
+          }
         },
         "KM" {
-          value: ""
+          value: "0"
         },
         "FJ" {
-          value: ""
+          value: "0"
         },
         "RU" {
-          value: ""
+          value: "0"
         },
         "VA" {
-          value: ""
+          value: "0"
         },
         "SM" {
-          value: ""
+          value: "0"
         },
         "KZ" {
-          value: ""
+          value: "0"
         },
         "AZ" {
-          value: ""
+          value: "0"
         },
         "TJ" {
-          value: ""
+          value: "0"
         },
         "LS" {
-          value: ""
+          value: "0"
         },
         "UZ" {
-          value: ""
+          value: "0"
         },
         "MA" {
-          value: ""
+          value: "0"
         },
         "CO" {
           value: ""
