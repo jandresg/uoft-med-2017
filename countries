@@ -192,7 +192,7 @@
 433	Adult Rheumatology	GREECE
 454	Adult Gastroenterology	GREECE
 
-14	Adult Cardiology	INDIA
+-// 14	Adult Cardiology	INDIA
 98	Adult Nephrology	INDIA
 153	Medical Oncology	INDIA
 163	Medical Oncology	INDIA
@@ -204,10 +204,10 @@
 276	Adult Haematology	INDIA
 295	Adult Nephrology	INDIA
 310	Physical Med & Rehabilitation	INDIA
-328	Adult Cardiology	INDIA
+-// 328	Adult Cardiology	INDIA
 350	Adult Haematology	INDIA
 378	General Internal Medicine	INDIA
-384	Adult Cardiology	INDIA
+-// 384	Adult Cardiology	INDIA
 409	Adult Neurology	INDIA
 410	Adult Respiratory Medicine	INDIA
 
