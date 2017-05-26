@@ -106,7 +106,7 @@
         "JP": {
           value: "1"
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Nord (59)</span><br />Population : 2617939"}
+            content: "<span style=\"font-weight:bold;\">Japan</span><br />Fellows : 11 <br />Dermatology (1) <br />Adult Respiratory Medicine (2)<br /> Adult Neurology (1)<br />Adult Gastroenterology (2)<br />Adult Infectious Diseases (2)<br />Medical Oncology (1)<br />Adult Endocrinol & Metabolism (1)<br />Adult Cardiology (1)"}
           },
         "SC": {
           value: "0"
@@ -114,7 +114,8 @@
         "IN": {
           value: "1"
           tooltip: {
-            content: ""
+            content: "<span styel=\"front-wight:bold;\">India</span><br />Fellows : 18"
+
           }
         },
         "FR": {
@@ -133,7 +134,10 @@
           }
         },
         "PT": {
-          value: "0"
+          value: "1"
+          tooltip: {
+            content: "Medical Oncology"
+          }
         },
         "SW": {
           value: "1"
@@ -168,7 +172,585 @@
         "GR": {
           value: ""
         },
-
+        "AS": {
+          value: ""
+        },
+        "DK": {
+          value: ""
+        },
+        "GL": {
+          value: ""
+        },
+        "GU": {
+          value: ""
+        },
+        "MP": {
+          value: ""
+        },
+        "PR": {
+          value: ""
+        },
+        "VI": {
+          value: ""
+        },
+        "CA": {
+          value: ""
+        },
+        "ST": {
+          value: ""
+        },
+        "CV": {
+          value: ""
+        },
+        "DM": {
+          value: ""
+        },
+        "NL": {
+          value: ""
+        },
+        "JM": {
+          value: ""
+        },
+        "WS": {
+          value: ""
+        },
+        "OM": {
+          value: ""
+        },
+        "VC": {
+          value: ""
+        },
+        "TR": {
+          value: ""
+        },
+        "BD": {
+          value: ""
+        },
+        "LC": {
+          value: ""
+        },
+        "NR": {
+          value: ""
+        },
+        "NO": {
+          value: ""
+        },
+        "KN": {
+          value: ""
+        },
+        "BH": {
+          value: ""
+        },
+        "TO": {
+          value: ""
+        },
+        "FI": {
+          value: ""
+        },
+        "ID": {
+          value: ""
+        },
+        "MU": {
+          value: ""
+        },
+        "SE": {
+          value: ""
+        },
+        "TT": {
+          value: ""
+        },
+        "MY": {
+          value: ""
+        },
+        "PA": {
+          value: ""
+        },
+        "PW": {
+          value: ""
+        },
+        "TV": {
+          value: ""
+        },
+        "MH": {
+          value: ""
+        },
+        "CL": {
+          value: ""
+        },
+        "TH": {
+          value: ""
+        },
+        "GD" {
+          value: ""
+        },
+        "EE" {
+          value: ""
+        },
+        "AG" {
+          value: ""
+        },
+        "TW" {
+          value: ""
+        },
+        "BB" {
+          value: ""
+        },
+        "IT" {
+          value: ""
+        },
+        "MT" {
+          value: ""
+        },
+        "VU" {
+          value: ""
+        },
+        "SG" {
+          value: ""
+        },
+        "CY" {
+          value: ""
+        },
+        "LK" {
+          value: ""
+        },
+        "KM" {
+          value: ""
+        },
+        "FJ" {
+          value: ""
+        },
+        "RU" {
+          value: ""
+        },
+        "VA" {
+          value: ""
+        },
+        "SM" {
+          value: ""
+        },
+        "KZ" {
+          value: ""
+        },
+        "AZ" {
+          value: ""
+        },
+        "TJ" {
+          value: ""
+        },
+        "LS" {
+          value: ""
+        },
+        "UZ" {
+          value: ""
+        },
+        "MA" {
+          value: ""
+        },
+        "CO" {
+          value: ""
+        },
+        "TL" {
+          value: ""
+        },
+        "TZ" {
+          value: ""
+        },
+        "AR" {
+          value: ""
+        },
+        "SA" {
+          value: ""
+        },
+        "PK" {
+          value: ""
+        },
+        "YE" {
+          value: ""
+        },
+        "AE" {
+          value: ""
+        },
+        "KE" {
+          value: ""
+        },
+        "PE" {
+          value: ""
+        },
+        "DO" {
+          value: ""
+        },
+        "HT" {
+          value: ""
+        },
+        "PG" {
+          value: ""
+        },
+        "AO" {
+          value: ""
+        },
+        "KH" {
+          value: ""
+        },
+        "VN" {
+          value: ""
+        },
+        "MZ" {
+          value: ""
+        },
+        "CR" {
+          value: ""
+        },
+        "BJ" {
+          value: ""
+        },
+        "NG" {
+          value: ""
+        },
+        "IR" {
+          value: ""
+        },
+        "SV" {
+          value: ""
+        },
+        "SL" {
+          value: ""
+        },
+        "GW" {
+          value: ""
+        },
+        "HR" {
+          value: ""
+        },
+        "BZ" {
+          value: ""
+        },
+        "ZA" {
+          value: ""
+        },
+        "CF" {
+          value: ""
+        },
+        "SD" {
+          value: ""
+        },
+        "CD" {
+            value: ""
+        },
+        "KW" {
+          value: ""
+        },
+        "DE" {
+          value: ""
+        },
+        "DE" {
+          value: ""
+        },
+        "BE" {
+          value: ""
+        },
+        "IE" {
+          value: ""
+        },
+        "KP" {
+          value: ""
+        },
+        "KR" {
+          value: ""
+        },
+        "GY" {
+          value: ""
+        },
+        "HN" {
+          value: ""
+        },
+        "MM" {
+          value: ""
+        },
+        "GE" {
+          value: ""
+        },
+        "GQ" {
+          value: ""
+        },
+        "NI" {
+          value: ""
+        },
+        "LV" {
+          value: ""
+        },
+        "UG" {
+          value: ""
+        },
+        "MW" {
+          value: ""
+        },
+        "AM" {
+          value: ""
+        },
+        "SX" {
+          value: ""
+        },
+        "TM" {
+          value: ""
+        },
+        "ZM" {
+          value: ""
+        },
+        "NC" {
+          value: ""
+        },
+        "MR" {
+          value: ""
+        },
+        "DZ" {
+          value: ""
+        },
+        "LT" {
+          value: ""
+        },
+        "ET" {
+          value: ""
+        },
+        "ER" {
+          value: ""
+        },
+        "GH" {
+          value: ""
+        },
+        "SI" {
+          value: ""
+        },
+        "GT" {
+          value: ""
+        },
+        "BA" {
+          value: ""
+        },
+        "JO" {
+          value: ""
+        },
+        "SY" {
+          value: ""
+        },
+        "MC" {
+          value: ""
+        },
+        "AL" {
+          value: ""
+        },
+        "AL" {
+          value: ""
+        },
+        "UY" {
+          value: ""
+        },
+        "CNM" {
+          value: ""
+        },
+        "MN" {
+          value: ""
+        },
+        "RW" {
+          value: ""
+        },
+        "SO" {
+          value: ""
+        },
+        "BO" {
+          value: ""
+        },
+        "CM" {
+          value: ""
+        },
+        "CG" {
+          value: ""
+        },
+        "EH" {
+          value: ""
+        },
+        "RS" {
+          value: ""
+        },
+        "ME" {
+          value: ""
+        },
+        "TG" {
+          value: ""
+        },
+        "LA" {
+          value: ""
+        },
+        "AF" {
+          value: ""
+        },
+        "UA" {
+          value: ""
+        },
+        "SK" {
+          value: ""
+        },
+        "JK" {
+          value: ""
+        },
+        "BG" {
+          value: ""
+        },
+        "QA" {
+          value: ""
+        },
+        "LI" {
+          value: ""
+        },
+        "AT" {
+          value: ""
+        },
+        "SZ" {
+          value: ""
+        },
+        "HU" {
+          value: ""
+        },
+        "RO" {
+          value: ""
+        },
+        "NE" {
+          value: ""
+        },
+        "LU" {
+          value: ""
+        },
+        "AD" {
+          value: ""
+        },
+        "CI" {
+          value: ""
+        },
+        "LR" {
+          value: ""
+        },
+        "BN" {
+          value: ""
+        },
+        "IQ" {
+          value: ""
+        },
+        "GE" {
+          value: ""
+        },
+        "GM" {
+          value: ""
+        },
+        "CH" {
+          value: ""
+        },
+        "TD" {
+          value: ""
+        },
+        "KV" {
+          value: ""
+        },
+        "LB" {
+          value: ""
+        },
+        "DJ" {
+          value: ""
+        },
+        "BI" {
+          value: ""
+        },
+        "SR" {
+          value: ""
+        },
+        "IL" {
+          value: ""
+        },
+        "ML" {
+          value: ""
+        },
+        "SN" {
+          value: ""
+        },
+        "GN" {
+          value: ""
+        },
+        "ZW" {
+          value: ""
+        },
+        "PL" {
+          value: ""
+        },
+        "MK" {
+          value: ""
+        },
+        "PY" {
+          value: ""
+        },
+        "BY" {
+          value: ""
+        },
+        "CZ" {
+          value: ""
+        },
+        "BF" {
+          value: ""
+        },
+        "NA" {
+          value: ""
+        },
+        "LY" {
+          value: ""
+        },
+        "TN" {
+          value: ""
+        },
+        "BT" {
+          value: ""
+        },
+        "MD" {
+          value: ""
+        },
+        "SS" {
+          value: ""
+        },
+        "BW" {
+          value: ""
+        },
+        "BS" {
+          value: ""
+        },
+        "NZ" {
+          value: ""
+        },
+        "CU" {
+          value: ""
+        },
+        "EC" {
+          value: ""
+        },
+        "AU" {
+          value: ""
+        },
+        "VE" {
+          value: ""
+        },
+        "SB" {
+          value: ""
+        },
+        "MG" {
+          value: ""
+        },
+        "IS" {
+          value: ""
+        },
+        "EG" {
+          value: ""
+        },
+        "KG" {
+          value: ""
+        },
+        "NP" {
+          value: ""
+        }
 
         }
         }

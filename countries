@@ -163,9 +163,9 @@
 451	Medical Oncology	CANADA
 453	Adult Cardiology	CANADA
 
-141	Medical Oncology	CHINA
-197	Adult Neurology	CHINA
-404	Adult Cardiology	CHINA
+// 141	Medical Oncology	CHINA
+// 197	Adult Neurology	CHINA
+// 404	Adult Cardiology	CHINA
 
 178	Adult Cardiology	COLOMBIA
 301	Adult Rheumatology	COLOMBIA
@@ -284,17 +284,17 @@
 362	Adult Cardiology	JAMAICA
 445	Adult Cardiology	JAMAICA
 
-// 224	Dermatology	JAPAN
-// 228	Adult Respiratory Medicine	JAPAN
-// 235	Adult Respiratory Medicine	JAPAN
-// 237	Adult Neurology	JAPAN
-// 239	Adult Gastroenterology	JAPAN
-// 326	Medical Oncology	JAPAN
-// 327	Adult Infectious Diseases	JAPAN
-// 398	Adult Gastroenterology	JAPAN
-// 399	Adult Infectious Diseases	JAPAN
-// 425	Adult Endocrinol & Metabolism	JAPAN
-// 430	Adult Cardiology	JAPAN
+-// 224	Dermatology	JAPAN
+-// 228	Adult Respiratory Medicine	JAPAN
+-// 235	Adult Respiratory Medicine	JAPAN
+-// 237	Adult Neurology	JAPAN
+-// 239	Adult Gastroenterology	JAPAN
+-// 326	Medical Oncology	JAPAN
+-// 327	Adult Infectious Diseases	JAPAN
+-// 398	Adult Gastroenterology	JAPAN
+-// 399	Adult Infectious Diseases	JAPAN
+-// 425	Adult Endocrinol & Metabolism	JAPAN
+-// 430	Adult Cardiology	JAPAN
 
 2	Medical Oncology	JORDAN
 6	Dermatology	JORDAN
@@ -361,7 +361,7 @@
 243	Adult Cardiology	PHILIPPINES
 355	Adult Nephrology	PHILIPPINES
 
-169	Medical Oncology	PORTUGAL
+// 169	Medical Oncology	PORTUGAL
 
 128	Adult Neurology	ROMANIA
 254	Physical Med & Rehabilitation	ROMANIA
@@ -494,7 +494,7 @@
 123	Adult Nephrology	UNITED KINGDOM
 220	Adult Cardiology	UNITED KINGDOM
 221	Adult Gastroenterology	UNITED KINGDOM
-233	Adult Cardiology	UNITED KINGDOM
+233	Adult Cardiology	UNITED KINGDOM"
 246	Adult Nephrology	UNITED KINGDOM
 335	Medical Oncology	UNITED KINGDOM
 354	Adult Gastroenterology	UNITED KINGDOM
