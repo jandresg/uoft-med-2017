@@ -100,12 +100,12 @@
         "US": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">United States</span><br />Fellows : 8 <br />Adult Rheumatology (1) <br />Physical Med & Rehab (1) <br />Adult Neurology (1) <br />Adult Cardiology (2) <br />Adult Infectious Diseases (1) <br />Medical Oncology (2)"
+            content: "<span style=\"font-weight:bold;\">United States<br />Fellows : 8 </span><br />Adult Rheumatology (1) <br />Physical Med & Rehab (1) <br />Adult Neurology (1) <br />Adult Cardiology (2) <br />Adult Infectious Diseases (1) <br />Medical Oncology (2)"
           },
         "JP": {
           value: "1",
           tooltip: {
-            content: "<span style=\"font-weight:bold;\">Japan</span><br />Fellows : 11 <br />Dermatology (1) <br />Adult Respiratory Medicine (2)<br /> Adult Neurology (1)<br />Adult Gastroenterology (2)<br />Adult Infectious Diseases (2)<br />Medical Oncology (1)<br />Adult Endocrinol & Metabolism (1)<br />Adult Cardiology (1)"}
+            content: "<span style=\"font-weight:bold;\">Japan</span><br />Fellows : 11 <br />Dermatology (1) <br />Adult Respiratory Medicine (2)<br /> Adult Neurology (1)<br />Adult Gastroenterology (2)<br />Adult Infectious Diseases (2)<br />Medical Oncology (1)<br />Adult Endocrinol & Metabolism (1)<br />Adult Cardiology (1)"
           },
         "SC": {
           value: "0"
@@ -910,8 +910,6 @@
         }
 
         }
-        }
-      }
       });
     });
   </script>
