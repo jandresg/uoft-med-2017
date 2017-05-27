@@ -73,7 +73,7 @@
               },
               attrsHover: {
                 fill: "#008bb0"
-              }
+              },
               lable: "yes fellows"
             },
             {
@@ -81,10 +81,10 @@
               max: 0,
               attrs: {
                 fill: "#CECFCB"
-              }
+              },
               attrsHover: {
                 fill: "#CECFCB"
-              }
+              },
               label: "no fellows"
             }
           ]
@@ -98,13 +98,12 @@
           value: "0"
         },
         "US": {
-          value: "1"
+          value: "1",
           tooltip: {
-              content: "<span style=\"font-weight:bold;\">United States</span><br />Fellows : 8 <br />Adult Rheumatology (1) <br />Physical Med & Rehab (1) <br />Adult Neurology (1) <br />Adult Cardiology (2) <br />Adult Infectious Diseases (1) <br />Medical Oncology (2)"
-            }
+            content: "<span style=\"font-weight:bold;\">United States</span><br />Fellows : 8 <br />Adult Rheumatology (1) <br />Physical Med & Rehab (1) <br />Adult Neurology (1) <br />Adult Cardiology (2) <br />Adult Infectious Diseases (1) <br />Medical Oncology (2)"
           },
         "JP": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Japan</span><br />Fellows : 11 <br />Dermatology (1) <br />Adult Respiratory Medicine (2)<br /> Adult Neurology (1)<br />Adult Gastroenterology (2)<br />Adult Infectious Diseases (2)<br />Medical Oncology (1)<br />Adult Endocrinol & Metabolism (1)<br />Adult Cardiology (1)"}
           },
@@ -112,14 +111,14 @@
           value: "0"
         },
         "IN": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">India</span><br />Fellows : 18<br />Adult Cardiology (3)<br />Adult Haematology (3)<br />Adult Nephrology (4)<br />Adult Neurology (1)<br />Adult Respiratory Medicine (2)<br />Dermatology (1)<br />General Internal Medicine (1)<br />Medical Oncology (1)<br />Physical Med & Rehabilitation (1)"
 
           }
         },
         "FR": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">France</span><br />Fellows : 2<br />Adult Infectious Diseases (1)<br />Adult Nephrology(1)"
           }
@@ -128,19 +127,19 @@
           value: "0"
         },
         "CN": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">China</span><br />Fellows : 3<br />Medical Oncology (1)<br />Adult Neurology (1)<br />Adult Cardiology (1)"
           }
         },
         "PT": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Portugal</span><br />Fellows : 1<br />Medical Oncology (1)"
           }
         },
         "SW": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Switzerland</span><br />Fellows : 4<br />Adult Neurology (1)<br />Dermatology (1)<br />Adult Respiratory Medicine (1)<br />Adult Cardiology (1)"
           }
@@ -149,7 +148,7 @@
           value: "0"
         },
         "BR": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Brazil</span><br />Fellows : 9<br />Adult Cardiology (2)<br />Adult Nephrology (1)<br />Adult Neurology (3)<br />General Internal Medicine (1)<br />Medical Oncology (2)"
           }
@@ -158,19 +157,19 @@
           value: "0"
         },
         "PH": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Philippines</span><br />Fellows : 3<br />Adult Haematology (1)<br />Adult Cardiology (1)<br />Adult Nephrology (1)"
           }
         },
         "MX": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Mexico</span><br />Fellows : 2<br />Adult Haematology (2)<br />Adult Neurology (1)"
           }
         },
         "ES": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Spain</span><br />Fellows : 7<br />Adult Cardiology (1)<br />Adult Gastroenterology (1)<br />Adult Haematology (1)<br />Adult Neurology (3)<br />Adult Respiratory Medicine (1)"
           }
@@ -182,13 +181,13 @@
           value: "0"
         },
         "GB": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">United Kingdom</span><br />Fellows : 13<br />Adult Cardiology (7)<br />Adult Gastroenterology (2)<br />Adult Nephrology (3)<br />Medical Oncology (1)"
           }
         },
         "GR": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Greece</span><br />Fellows : 2<br />Adult Rheumatology (1)<br />Adult Gastroenterology (1)"
           }
@@ -215,7 +214,7 @@
           value: "0"
         },
         "CA": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Canada</span><br />Fellows : 116<br />Adult Cardiology (24)<br />Adult Endocrinol & Metabolism (2)<br />Adult Gastroenterology (7)<br />Adult Haematology (11)<br />Adult Infectious Diseases (2)<br />Adult Nephrology (11)<br />Adult Neurology (13)<br />Adult Respiratory (9)<br />Adult Rheumatology (2)<br />Dermatology (3)<br />Emergency Medicine (1)<br />General Internal Medicine (15)<br />Geriatric Medicine (2)<br />Medical Oncology (11)<br />Physical Med & Rehabilitation (3)"
           }
@@ -230,13 +229,13 @@
           value: "0"
         },
         "NL": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Netherlands</span><br />Fellows : 2<br />Adult Neurology (2)"
           }
         },
         "JM": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Jamaica</span><br />Fellows : 7<br />Adult Cardiology (4)<br />Adult Respiratory Therapy (1)<br />Adult Rheumatology (2)"
           }
@@ -245,7 +244,7 @@
           value: "0"
         },
         "OM": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Oman</span><br />Fellows : 3<br />Adult Gastroenterology (1) <br />Emergency Medicine (1)<br />Medical Oncology (1)"
           }
@@ -254,19 +253,18 @@
           value: "0"
         },
         "TR": {
-          value: " 1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Turkey</span><br />Fellows : 2<br />Adult Rheumatology (2)"
-          }
-        },
+          },
         "BD": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Bangladesh</span><br />Fellows : 1<br />Adult Nephrology (1)"
           }
         },
         "LC": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\"Saint Lucia</span><br />Fellows : 1<br />Adult Cardiology (1)"
           }
@@ -287,7 +285,7 @@
           value: "0"
         },
         "FI": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Finland</span><br />Fellows : 1<br />Adult Respiratory Therapy (1)"
           }
@@ -305,7 +303,7 @@
           value: "0"
         },
         "MY": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Malaysia</span><br />Fellows : 4<br />Adult Cardiology (1)<br />Adult Gastroenterology (1)<br />Medical Oncology (1)<br />Physical Med & Rehabilitation (1)"
           }
@@ -326,586 +324,586 @@
           value: "0"
         },
         "TH": {
-          value: "1"
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Thailand</span><br />Fellows : 4<br />Adult Gastroenterology (1)<br />Adult Nephrology (1)<br />Adult Neurology (1)<br />Adult Rheumatology (1)"
           }
         },
-        "GD" {
+        "GD": {
           value: "0"
         },
-        "EE" {
+        "EE": {
           value: "0"
         },
-        "AG" {
-          value: "1"
+        "AG": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Antigua</span><br />Fellows : 1<br />Adult Cardiology (1)"
           }
         },
-        "TW" {
+        "TW": {
           value: "0"
         },
-        "BB" {
+        "BB": {
           value: "0"
         },
-        "IT" {
-          value: "1"
+        "IT": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Italy</span><br />Fellows : 4<br />Adult Cardiology (1)<br />Adult Haematology (1)<br />Adult Respiratory Therapy (1)<br />Medical Oncology (1)"
           }
         },
-        "MT" {
+        "MT": {
           value: "0"
         },
-        "VU" {
+        "VU": {
           value: "0"
         },
-        "SG" {
-          value: "1"
+        "SG": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Singapore</span><br />Fellows : 3<br />Adult Nephrology (1)<br />Emergency Medicine (2)"
           }
         },
-        "CY" {
+        "CY": {
           value: "0"
         },
-        "LK" {
-          value: "1"
+        "LK": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Sri-Lanka</span><br />Fellows : 2<br />Adult Gastroenterology (1)<br />Physical Med & Rehabilitation (1)"
           }
         },
-        "KM" {
+        "KM": {
           value: "0"
         },
-        "FJ" {
+        "FJ": {
           value: "0"
         },
-        "RU" {
+        "RU": {
           value: "0"
         },
-        "VA" {
+        "VA": {
           value: "0"
         },
-        "SM" {
+        "SM": {
           value: "0"
         },
-        "KZ" {
+        "KZ": {
           value: "0"
         },
-        "AZ" {
+        "AZ": {
           value: "0"
         },
-        "TJ" {
+        "TJ": {
           value: "0"
         },
-        "LS" {
+        "LS": {
           value: "0"
         },
-        "UZ" {
+        "UZ": {
           value: "0"
         },
-        "MA" {
+        "MA": {
           value: "0"
         },
-        "CO" {
-          value: "1"
+        "CO": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Colombia</span><br />Fellows : 2<br />Adult Cardiology (1)<br />Adult Rheumatology(1)"
           }
         },
-        "TL" {
+        "TL": {
           value: "0"
         },
-        "TZ" {
+        "TZ": {
           value: "0"
         },
-        "AR" {
-          value: "1"
+        "AR": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Argentina</span><br />Fellows : 3<br />Adult Cardiology (2)<br />Adult Haematology (1)"
           }
         },
-        "SA" {
-          value: "1"
+        "SA": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Saudi Arabia</span><br />Fellows : 69<br />Adult Cardiology (6)<br />Adult Endocrinol & Metabolism (5)<br />Adult Gastroenterology (3)<br />Adult Haematology (8)<br />Adult Infectious Diseases (9)<br />Adult Nephrology (6)<br />Adult Neurology (11)<br />Adult Respiratory Medicine (1)<br />Adult Rheumatology (13)<br />Dermatology (2)<br />Emergency Medicine (1)<br />Medical Oncology (4)"
           }
         },
-        "PK" {
-          value: "1"
+        "PK": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Pakistan</span><br />Fellows : 10<br />Adult Cardiology (4)<br />Adult Infectious Diseases (1)<br />Adult Nephrology(3)<br />Adult Neurology (1)<br />General Internal Medicine(1)"
           }
         },
-        "YE" {
-          value: "1"
+        "YE": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Yemen</span><br />Fellows : 2<br />Adult Haematology (1)<br />Adult Neurology (1)"
           }
         },
-        "AE" {
-          value: "1"
+        "AE": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">United Arab Emirates</span><br />Fellows : 7<br />Adult Cardiology (1)<br />Adult Gastroenterology (1)<br />Adult Haematology (2)<br />Adult Respiratory Medicine (1)<br />Adult Rheumatology (1)<br />Occupational Medicine (1)"
           }
         },
-        "KE" {
+        "KE": {
           value: "0"
         },
-        "PE" {
+        "PE": {
           value: "0"
         },
-        "DO" {
+        "DO": {
           value: "0"
         },
-        "HT" {
+        "HT": {
           value: "0"
         },
-        "PG" {
+        "PG": {
           value: "0"
         },
-        "AO" {
+        "AO": {
           value: "0"
         },
-        "KH" {
+        "KH": {
           value: "0"
         },
-        "VN" {
+        "VN": {
           value: "0"
         },
-        "MZ" {
+        "MZ": {
           value: "0"
         },
-        "CR" {
-          value: "1"
+        "CR": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Costa Rica</span><br />Fellows : 1<br />Dermatology (1)"
           }
         },
-        "BJ" {
+        "BJ": {
           value: "0"
         },
-        "NG" {
-          value: "1"
+        "NG": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Nigeria</span><br />Fellows : 1<br />Adult Respiratory Medicine (1)"
           }
         },
-        "IR" {
-          value: "1"
+        "IR": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Iran</span><br />Fellows : 10<br />Adult Cardiology (2)<br />Adult Gastroenterology (1)<br />Adult Neurology (3)<br />General Internal Medicine (4)"
           }
         },
-        "SV" {
+        "SV": {
           value: "0"
         },
-        "SL" {
+        "SL": {
           value: "0"
         },
-        "GW" {
+        "GW": {
           value: "0"
         },
-        "HR" {
+        "HR": {
           value: "0"
         },
-        "BZ" {
+        "BZ": {
           value: "0"
         },
-        "ZA" {
+        "ZA": {
           value: "0"
         },
-        "CF" {
+        "CF": {
           value: "0"
         },
-        "SD" {
-          value: "1"
+        "SD": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Sudan</span><br />Fellows : 2<br />Adult Cardiology (1)<br />Adult Haematology (1)"
           }
         },
-        "CD" {
+        "CD": {
             value: "0"
         },
-        "KW" {
-          value: "1"
+        "KW": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Kuwait</span><br />Fellows : 6<br />Adult Endocrinol & Metabolism (1)<br />Adult Gastroenterology (1)<br />Adult Nephrology (1)<br />Adult Rheumatology (1)<br />Dermatology (1)<br />Emergency Medicine (1)"
           }
         },
-        "DE" {
-          value: "1"
+        "DE": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Germany</span><br />Fellows : 4<br />Adult Cardiology (1)<br />Adult Neurology (2)<br />Adult Respiratory Medicine (1)"
           }
         },
-        "BE" {
-          value: "1"
+        "BE": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Belgium</span><br />Fellows : 1<br />Adult Cardiology (1)"
           }
         },
-        "IE" {
-          value: "1"
+        "IE": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Ireland</span><br />Fellows : 19<br />Adult Cardiology (3)<br />Adult Gastroenterology (2)<br />Adult Haematology (3)<br />Adult Nephrology (7)<br />Adult Neurology (1)<br />Adult Respiratory Medicine (1)<br />Adult Rheumatology (1)<br />Medical Oncology (1)"
           }
         },
-        "KP" {
+        "KP": {
           value: "0"
         },
-        "KR" {
-          value: "1"
+        "KR": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">South Korea</span><br />Fellows : 1<br />General Internal Medicine (1)"
           }
         },
-        "GY" {
+        "GY": {
           value: "0"
         },
-        "HN" {
+        "HN": {
           value: "0"
         },
-        "MM" {
-          value: "1"
+        "MM": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Burma</span><br />Fellows : 1<br />Medical Oncology (1)"
           }
         },
-        "GE" {
+        "GE": {
           value: "0"
         },
-        "GQ" {
+        "GQ": {
           value: "0"
         },
-        "NI" {
+        "NI": {
           value: "0"
         },
-        "LV" {
+        "LV": {
           value: "0"
         },
-        "UG" {
+        "UG": {
           value: "0"
         },
-        "MW" {
+        "MW": {
           value: "0"
         },
-        "AM" {
+        "AM": {
           value: "0"
         },
-        "SX" {
+        "SX": {
           value: "0"
         },
-        "TM" {
+        "TM": {
           value: "0"
         },
-        "ZM" {
+        "ZM": {
           value: "0"
         },
-        "NC" {
+        "NC": {
           value: "0"
         },
-        "MR" {
+        "MR": {
           value: "0"
         },
-        "DZ" {
-          value: "1"
+        "DZ": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Algeria</span><br />Fellows : 1<br />Adult Haematology(1)"
           }
         },
-        "LT" {
+        "LT": {
           value: "0"
         },
-        "ET" {
+        "ET": {
           value: "0"
         },
-        "ER" {
+        "ER": {
           value: "0"
         },
-        "GH" {
+        "GH": {
           value: "0"
         },
-        "SI" {
-          value: "1"
+        "SI": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Slovenia</span><br />Fellows : 1<br />Medical Oncology (1)"
           }
         },
-        "GT" {
+        "GT": {
           value: "0"
         },
-        "BA" {
+        "BA": {
           value: "0"
         },
-        "JO" {
-          value: "1"
+        "JO": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Jordan</span><br />Fellows : 9<br />Adult Haematology (3)<br />Adult Nephrology (1)<br />Dermatology (1)<br />General Internal Medicine (1)<br />Medical Oncology (3)"
           }
         },
-        "SY" {
-          value: "1"
+        "SY": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Syria</span><br />Fellows : 2<br />Adult Neurology (1)<br />Medical Oncology (1)"
           }
         },
-        "MC" {
+        "MC": {
           value: "0"
         },
-        "AL" {
+        "AL": {
           value: "0"
         },
-        "UY" {
+        "UY": {
           value: "0"
         },
-        "CNM" {
+        "CNM": {
           value: "0"
         },
-        "MN" {
+        "MN": {
           value: "0"
         },
-        "RW" {
+        "RW": {
           value: "0"
         },
-        "SO" {
+        "SO": {
           value: "0"
         },
-        "BO" {
+        "BO": {
           value: "0"
         },
-        "CM" {
+        "CM": {
           value: "0"
         },
-        "CG" {
+        "CG": {
           value: "0"
         },
-        "EH" {
+        "EH": {
           value: "0"
         },
-        "RS" {
-          value: "1"
+        "RS": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Serbia</span><br />Fellows : 1<br />Medical Oncology (1)"
           }
         },
-        "ME" {
+        "ME": {
           value: "0"
         },
-        "TG" {
+        "TG": {
           value: "0"
         },
-        "LA" {
+        "LA": {
           value: "0"
         },
-        "AF" {
+        "AF": {
           value: "0"
         },
-        "UA" {
+        "UA": {
           value: "0"
         },
-        "SK" {
+        "SK": {
           value: "0"
         },
-        "JK" {
+        "JK": {
           value: "0"
         },
-        "BG" {
+        "BG": {
           value: "0"
         },
-        "QA" {
+        "QA": {
           value: "0"
         },
-        "LI" {
+        "LI": {
           value: "0"
         },
-        "AT" {
-          value: "1"
+        "AT": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Austria</span><br />Fellows : 1<br />Clinical Pharmacology & Toxicology (1)"
           }
         },
-        "SZ" {
+        "SZ": {
           value: "0"
         },
-        "HU" {
+        "HU": {
           value: "0"
         },
-        "RO" {
-          value: "1"
+        "RO": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Romania</span><br />Fellows : 2<br />Adult Neurology (1)<br />Physical Med & Rehabilitation (1)"
           }
         },
-        "NE" {
-          value: "1"
+        "NE": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Nigeria</span><br />Fellows : 1<br />Adult Respiratory Medicine (1)"
           }
         },
-        "LU" {
+        "LU": {
           value: "0"
         },
-        "AD" {
+        "AD": {
           value: "0"
         },
-        "CI" {
+        "CI": {
           value: "0"
         },
-        "LR" {
+        "LR": {
           value: "0"
         },
-        "BN" {
+        "BN": {
           value: "0"
         },
-        "IQ" {
-          value: "1"
+        "IQ": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Iraq</span><br />Fellows : 1<br />Adult Nephrology (1)"
           }
         },
-        "GE" {
+        "GE": {
           value: "0"
         },
-        "GM" {
+        "GM": {
           value: "0"
         },
-        "CH" {
-          value: "1"
+        "CH": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Switzerland</span><br />Fellows : 4<br />Adult Cardiology (1)<br />Adult Neurology (1)<br />Adult Respiratory Therapy (1)<br />Dermatology (1)"
           }
         },
-        "TD" {
+        "TD": {
           value: "0"
         },
-        "KV" {
+        "KV": {
           value: "0"
         },
-        "LB" {
-          value: "1"
+        "LB": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Lebanon</span><br />Fellows : 2<br />Genera Internal Medicine (1)<br />Medical Oncology (1)"
           }
         },
-        "DJ" {
+        "DJ": {
           value: "0"
         },
-        "BI" {
+        "BI": {
           value: "0"
         },
-        "SR" {
+        "SR": {
           value: "0"
         },
-        "IL" {
-          value: "1"
+        "IL": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Romania</span><br />Fellows : 2<br />Adult Cardiology (9)<br />Adult Gastroenterology (1)<br />Adult Haematology (1)<br />Adult Neurology (3)<br />Adult Respiratory Medicine (1)<br />Adult Rheumatology (3)<br />Clinical Pharmacology & Toxicology (1)<br />Dermatology (1)<br />Medical Oncology (5)"
           }
         },
-        "ML" {
+        "ML": {
           value: "0"
         },
-        "SN" {
+        "SN": {
           value: "0"
         },
-        "GN" {
+        "GN": {
           value: "0"
         },
-        "ZW" {
+        "ZW": {
           value: "0"
         },
-        "PL" {
+        "PL": {
           value: "0"
         },
-        "MK" {
-          value: "1"
+        "MK": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Macedonia</span><br />Fellows : 1<br />Clinical Pharmacology & Toxicology (1)"
           }
         },
-        "PY" {
+        "PY": {
           value: "0"
         },
-        "BY" {
+        "BY": {
           value: "0"
         },
-        "CZ" {
+        "CZ": {
           value: "0"
         },
-        "BF" {
+        "BF": {
           value: "0"
         },
-        "NA" {
+        "NA": {
           value: "0"
         },
-        "LY" {
-          value: "1"
+        "LY": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Libya</span><br />Fellows : 1<br />Adult Rheumatology (1)"
           }
         },
-        "TN" {
+        "TN": {
           value: "0"
         },
-        "BT" {
+        "BT": {
           value: "0"
         },
-        "MD" {
+        "MD": {
           value: "0"
         },
-        "SS" {
+        "SS": {
           value: "0"
         },
-        "BW" {
+        "BW": {
           value: "0"
         },
-        "BS" {
+        "BS": {
           value: "0"
         },
-        "NZ" {
-          value: "1"
+        "NZ": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">New Zeland</span><br />Fellows : 2<br />Adult Cardiology (1)<br />Adult Haematology (1)<br />Adult Nephrology (1)"
           }
         },
-        "CU" {
+        "CU": {
           value: "0"
         },
-        "EC" {
+        "EC": {
           value: "0"
         },
-        "AU" {
-          value: "1"
+        "AU": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Australia</span><br />Fellows : 21<br />Adul Cardiology (6)<br />Adult Gastroenterology (1)<br />Adult Haematology (2)<br />Adult Neurology (1)<br />Adult Respiratory Medicine (1)<br />Medical Oncology (10)"
           }
         },
-        "VE" {
+        "VE": {
           value: "0"
         },
-        "SB" {
+        "SB": {
           value: "0"
         },
-        "MG" {
+        "MG": {
           value: "0"
         },
-        "IS" {
+        "IS": {
           value: "0"
         },
-        "EG" {
-          value: "1"
+        "EG": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Egypt</span><br />Fellows : 6<br />Adul Cardiology (2)<br />Adult Haematology (2)<br />Adult Nephrology (1)<br />General Internal Medicine (1)"
           }
         },
-        "KG" {
+        "KG": {
           value: "0"
         },
-        "NP" {
-          value: "1"
+        "NP": {
+          value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Nepal</span><br />Fellows : 2<br />Dermatology (1)<br />Medical Oncology (1)"
           }
