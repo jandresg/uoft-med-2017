@@ -101,11 +101,13 @@
           value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">United States<br />Fellows : 8 </span><br />Adult Rheumatology (1) <br />Physical Med & Rehab (1) <br />Adult Neurology (1) <br />Adult Cardiology (2) <br />Adult Infectious Diseases (1) <br />Medical Oncology (2)"
+            }
           },
         "JP": {
           value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Japan</span><br />Fellows : 11 <br />Dermatology (1) <br />Adult Respiratory Medicine (2)<br /> Adult Neurology (1)<br />Adult Gastroenterology (2)<br />Adult Infectious Diseases (2)<br />Medical Oncology (1)<br />Adult Endocrinol & Metabolism (1)<br />Adult Cardiology (1)"
+            }
           },
         "SC": {
           value: "0"
@@ -256,6 +258,7 @@
           value: "1",
           tooltip: {
             content: "<span style=\"font-weight:bold;\">Turkey</span><br />Fellows : 2<br />Adult Rheumatology (2)"
+            }
           },
         "BD": {
           value: "1",
@@ -908,7 +911,6 @@
             content: "<span style=\"font-weight:bold;\">Nepal</span><br />Fellows : 2<br />Dermatology (1)<br />Medical Oncology (1)"
           }
         }
-
         }
       });
     });
